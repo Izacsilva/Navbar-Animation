@@ -1,2 +1,3 @@
 # Navbar-Animation
- Aminação em CSS puro
+
+Pequenas práticas em animação com CSS.
